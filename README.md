@@ -18,7 +18,7 @@ The game is played on a board consisting of an 8 x 3 grid with four squares miss
 | [ ]  | [ ] | [ ] | [\*] | [ ] | [ ] | [ ]  | [ ] |
 | [\*] | [ ] | [ ] | [ ]  |     |     | [\*] | [ ] |
 
-It could also be reperesented like so, curly-brackets representing positions with rosettes.
+From now on, let's denote it like this, with curly-brackets representing positions with rosettes.
 
 | { } | [ ] | [ ] | [ ] |     |     | { } | [ ] |
 |-----|-----|-----|-----|-----|-----|-----|-----|
